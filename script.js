@@ -1,5 +1,5 @@
 const apiBaseUrl = 'https://gorest.co.in/public-api/users';
-const apiToken = 'e739b05ab5bf3901f3eb4b84f2d425fd10af7aadc1baf43afd5deaf889cc5ebe'; // Replace with your API token
+const apiToken = 'e739b05ab5bf3901f3eb4b84f2d425fd10af7aadc1baf43afd5deaf889cc5ebe'; 
 
 let currentPage = 1;
 const usersPerPage = 7;
